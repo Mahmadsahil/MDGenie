@@ -1,0 +1,172 @@
+[
+    [
+        {
+            "full_name": "Hyundai Creta",
+            "brand": "Hyundai",
+            "rating": 4.5,
+            "model": "Creta",
+            "colors": "Polar White, Typhoon Silver, Phantom Black, Galaxy Blue, Titan Grey, Red Mulberry",
+            "brand_website_link": "https://www.hyundai.com/in/en/suvs/creta",
+            "price": 1000000,
+            "related_information_1": "The Hyundai Creta is one of the most popular SUV's in India.",
+            "related_information_2": "The Creta comes with a range of powerful engine options and is known for its spacious interior and stylish design.",
+            "related_information_3": "It's a popular choice for families in India.",
+            "about_company": "Hyundai Motor India Limited (HMIL) is a wholly-owned subsidiary of Hyundai Motor Company, South Korea, established in 1996. It's the second-largest car manufacturer in India, known for its stylish designs, modern features, and reliable performance.",
+            "description": "The Hyundai Creta is a popular compact SUV that offers a blend of style, practicality, and features. It's powered by a range of petrol and diesel engines and comes with a variety of trims to choose from.",
+            "key_features": [
+                "Spacious Interior",
+                "Stylish Design",
+                "Powerful Engine Options",
+                "Modern Features",
+                "Safety Features"
+            ]
+        },
+        {
+            "full_name": "Hyundai Venue",
+            "brand": "Hyundai",
+            "rating": 4.3,
+            "model": "Venue",
+            "colors": "Polar White, Typhoon Silver, Phantom Black, Galaxy Blue, Titan Grey, Red Mulberry",
+            "brand_website_link": "https://www.hyundai.com/in/en/suvs/venue",
+            "price": 750000,
+            "related_information_1": "The Hyundai Venue is a stylish and feature-rich compact SUV.",
+            "related_information_2": "The Venue is known for its peppy engine and good fuel economy.",
+            "related_information_3": "It's a popular choice for first-time car buyers and young families in India.",
+            "about_company": "Hyundai Motor India Limited (HMIL) is a wholly-owned subsidiary of Hyundai Motor Company, South Korea, established in 1996. It's the second-largest car manufacturer in India, known for its stylish designs, modern features, and reliable performance.",
+            "description": "The Hyundai Venue is a compact SUV that offers a blend of style, practicality, and technology. It's powered by a range of petrol and diesel engines and comes with a variety of trims to choose from. The Venue is known for its comfortable cabin, modern features, and peppy performance.",
+            "key_features": [
+                "Spacious Interior",
+                "Stylish Design",
+                "Powerful Engine Options",
+                "Modern Features",
+                "Safety Features"
+            ]
+        },
+        {
+            "full_name": "Hyundai Tucson",
+            "brand": "Hyundai",
+            "rating": 4.4,
+            "model": "Tucson",
+            "colors": "Shimmering Silver, Starry Night, Fiery Red, Typhoon Silver, Phantom Black",
+            "brand_website_link": "https://www.hyundai.com/in/en/suvs/tucson",
+            "price": 1800000,
+            "related_information_1": "The Hyundai Tucson is a popular mid-size SUV that offers a blend of style, comfort, and technology.",
+            "related_information_2": "The Tucson is known for its smooth ride, powerful engine, and premium features.",
+            "related_information_3": "It's a popular choice for families and individuals looking for a comfortable and spacious SUV.",
+            "about_company": "Hyundai Motor India Limited (HMIL) is a wholly-owned subsidiary of Hyundai Motor Company, South Korea, established in 1996. It's the second-largest car manufacturer in India, known for its stylish designs, modern features, and reliable performance.",
+            "description": "The Hyundai Tucson is a mid-size SUV that offers a blend of style, comfort, and practicality. It's powered by a range of petrol and diesel engines and comes with a variety of trims to choose from. The Tucson is known for its spacious interior, advanced features, and powerful performance.",
+            "key_features": [
+                "Spacious Interior",
+                "Stylish Design",
+                "Powerful Engine Options",
+                "Modern Features",
+                "Safety Features"
+            ]
+        },
+        {
+            "full_name": "Hyundai Alcazar",
+            "brand": "Hyundai",
+            "rating": 4.2,
+            "model": "Alcazar",
+            "colors": "Polar White, Typhoon Silver, Phantom Black, Galaxy Blue, Titan Grey, Red Mulberry",
+            "brand_website_link": "https://www.hyundai.com/in/en/suvs/alcazar",
+            "price": 1600000,
+            "related_information_1": "The Hyundai Alcazar is a premium SUV with three rows of seats, designed for families with more passengers.",
+            "related_information_2": "The Alcazar offers a spacious interior, comfortable ride, and a range of features.",
+            "related_information_3": "It's a popular choice for families looking for a larger SUV with a comfortable ride and plenty of features.",
+            "about_company": "Hyundai Motor India Limited (HMIL) is a wholly-owned subsidiary of Hyundai Motor Company, South Korea, established in 1996. It's the second-largest car manufacturer in India, known for its stylish designs, modern features, and reliable performance.",
+            "description": "The Hyundai Alcazar is a three-row SUV that offers a blend of style, comfort, and practicality. It's powered by a range of petrol and diesel engines and comes with a variety of trims to choose from. The Alcazar is known for its spacious interior, advanced features, and comfortable ride.",
+            "key_features": [
+                "Spacious Interior",
+                "Stylish Design",
+                "Powerful Engine Options",
+                "Modern Features",
+                "Safety Features"
+            ]
+        },
+        {
+            "full_name": "Hyundai Kona",
+            "brand": "Hyundai",
+            "rating": 4.1,
+            "model": "Kona",
+            "colors": "Polar White, Typhoon Silver, Phantom Black, Galaxy Blue, Titan Grey, Red Mulberry",
+            "brand_website_link": "https://www.hyundai.com/in/en/suvs/kona",
+            "price": 1400000,
+            "related_information_1": "The Hyundai Kona is a compact SUV that offers a stylish and modern design.",
+            "related_information_2": "The Kona is known for its peppy engine and good fuel economy.",
+            "related_information_3": "It's a popular choice for individuals and families who are looking for a stylish and efficient SUV.",
+            "about_company": "Hyundai Motor India Limited (HMIL) is a wholly-owned subsidiary of Hyundai Motor Company, South Korea, established in 1996. It's the second-largest car manufacturer in India, known for its stylish designs, modern features, and reliable performance.",
+            "description": "The Hyundai Kona is a compact SUV that offers a blend of style, practicality, and technology. It's powered by a range of petrol and diesel engines and comes with a variety of trims to choose from. The Kona is known for its comfortable cabin, modern features, and peppy performance.",
+            "key_features": [
+                "Spacious Interior",
+                "Stylish Design",
+                "Powerful Engine Options",
+                "Modern Features",
+                "Safety Features"
+            ]
+        },
+        {
+            "full_name": "Hyundai i20 N Line",
+            "brand": "Hyundai",
+            "rating": 4,
+            "model": "i20 N Line",
+            "colors": "Polar White, Typhoon Silver, Phantom Black, Galaxy Blue, Titan Grey, Red Mulberry",
+            "brand_website_link": "https://www.hyundai.com/in/en/hatchbacks/i20-n-line",
+            "price": 1000000,
+            "related_information_1": "The Hyundai i20 N Line is a sporty hatchback that offers a fun-to-drive experience.",
+            "related_information_2": "The i20 N Line is known for its peppy engine and sporty handling.",
+            "related_information_3": "It's a popular choice for individuals and families who are looking for a stylish and sporty hatchback.",
+            "about_company": "Hyundai Motor India Limited (HMIL) is a wholly-owned subsidiary of Hyundai Motor Company, South Korea, established in 1996. It's the second-largest car manufacturer in India, known for its stylish designs, modern features, and reliable performance.",
+            "description": "The Hyundai i20 N Line is a sporty hatchback that offers a blend of style, performance, and practicality. It's powered by a range of petrol engines and comes with a variety of trims to choose from. The i20 N Line is known for its sporty design, comfortable cabin, and peppy performance.",
+            "key_features": [
+                "Spacious Interior",
+                "Stylish Design",
+                "Powerful Engine Options",
+                "Modern Features",
+                "Safety Features"
+            ]
+        },
+        {
+            "full_name": "Hyundai Grand i10 Nios",
+            "brand": "Hyundai",
+            "rating": 3.8,
+            "model": "Grand i10 Nios",
+            "colors": "Polar White, Typhoon Silver, Phantom Black, Galaxy Blue, Titan Grey, Red Mulberry",
+            "brand_website_link": "https://www.hyundai.com/in/en/hatchbacks/grand-i10-nios",
+            "price": 600000,
+            "related_information_1": "The Hyundai Grand i10 Nios is a spacious and practical hatchback that offers a comfortable ride.",
+            "related_information_2": "The Grand i10 Nios is known for its fuel efficiency and affordable price.",
+            "related_information_3": "It's a popular choice for individuals and families looking for a practical and affordable hatchback.",
+            "about_company": "Hyundai Motor India Limited (HMIL) is a wholly-owned subsidiary of Hyundai Motor Company, South Korea, established in 1996. It's the second-largest car manufacturer in India, known for its stylish designs, modern features, and reliable performance.",
+            "description": "The Hyundai Grand i10 Nios is a spacious and practical hatchback that offers a blend of style, comfort, and practicality. It's powered by a range of petrol and diesel engines and comes with a variety of trims to choose from. The Grand i10 Nios is known for its comfortable cabin, modern features, and fuel efficiency.",
+            "key_features": [
+                "Spacious Interior",
+                "Stylish Design",
+                "Powerful Engine Options",
+                "Modern Features",
+                "Safety Features"
+            ]
+        },
+        {
+            "full_name": "Hyundai Santro",
+            "brand": "Hyundai",
+            "rating": 3.9,
+            "model": "Santro",
+            "colors": "Polar White, Typhoon Silver, Phantom Black, Galaxy Blue, Titan Grey, Red Mulberry",
+            "brand_website_link": "https://www.hyundai.com/in/en/hatchbacks/santro",
+            "price": 500000,
+            "related_information_1": "The Hyundai Santro is a popular hatchback that offers a comfortable ride and spacious interior.",
+            "related_information_2": "The Santro is known for its fuel efficiency and affordable price.",
+            "related_information_3": "It's a popular choice for first-time car buyers and families looking for a practical and affordable hatchback.",
+            "about_company": "Hyundai Motor India Limited (HMIL) is a wholly-owned subsidiary of Hyundai Motor Company, South Korea, established in 1996. It's the second-largest car manufacturer in India, known for its stylish designs, modern features, and reliable performance.",
+            "description": "The Hyundai Santro is a spacious and practical hatchback that offers a blend of style, comfort, and practicality. It's powered by a range of petrol engines and comes with a variety of trims to choose from. The Santro is known for its comfortable cabin, modern features, and fuel efficiency.",
+            "key_features": [
+                "Spacious Interior",
+                "Stylish Design",
+                "Powerful Engine Options",
+                "Modern Features",
+                "Safety Features"
+            ]
+        }
+    ]
+]

@@ -1,0 +1,214 @@
+{
+  "Products": {
+    "Laptop": {
+      "Type": ["Device", "Computer", "Laptop"],
+      "Brand": ["Brand", "Dell", "HP", "Mac", "Lenovo"],
+      "Reason": [
+        "Why?",
+        "Coding",
+        "Study/Online Learning",
+        "Gaming",
+        "Work/Professional Use",
+        "Multimedia/Entertainment",
+        "Video Editing",
+        "Everyday Use"
+      ]
+    },
+    "Phone": {
+      "Type": ["Device", "Phone"],
+      "Brand": [
+        "Brand",
+        "Samsung",
+        "Apple",
+        "OnePlus",
+        "Xiaomi",
+        "Realme",
+        "Vivo",
+        "Oppo"
+      ],
+      "Reason": [
+        "Why?",
+        "Photography",
+        "Gaming",
+        "Business/Work",
+        "Everyday Use",
+        "Multimedia/Entertainment",
+        "Video Calling",
+        "Budget Friendly"
+      ]
+    },
+    "Car": {
+      "Type": ["Device", "Sedan", "SUV", "Hatchback"],
+      "Brand": [
+        "Brand",
+        "Maruti Suzuki",
+        "Hyundai",
+        "Tata Motors",
+        "Mahindra",
+        "Honda",
+        "Toyota",
+        "Kia",
+        "Renault"
+      ],
+      "Reason": [
+        "Why?",
+        "Family",
+        "Business/Work",
+        "Travel",
+        "Luxury",
+        "Off-road",
+        "Fuel Efficiency",
+        "Budget Friendly"
+      ]
+    },
+    "Bike": {
+      "Type": ["Bike", "Sports Bike", "Scooter", "Electric"],
+      "Brand": [
+        "Brand",
+        "Hero",
+        "Honda",
+        "TVS",
+        "Bajaj",
+        "Royal Enfield",
+        "Yamaha",
+        "KTM",
+        "Suzuki"
+      ],
+      "Reason": [
+        "Why?",
+        "Daily Commute",
+        "Long Rides",
+        "Off-road",
+        "Racing",
+        "Fuel Efficiency",
+        "Budget Friendly",
+        "Style",
+        "Performance"
+      ]
+    },
+    "TV": {
+      "Type": ["TV", "Smart TV", "LED TV", "OLED TV", "4K TV", "QLED TV"],
+      "Brand": [
+        "Brand",
+        "Samsung",
+        "LG",
+        "Sony",
+        "Mi (Xiaomi)",
+        "TCL",
+        "Panasonic",
+        "Philips"
+      ],
+      "Reason": [
+        "Why?",
+        "Movies/Entertainment",
+        "Gaming",
+        "Streaming",
+        "Sports",
+        "Budget Friendly",
+        "High Resolution"
+      ]
+    },
+    "Fridge": {
+      "Type": [
+        "Fridge",
+        "Single Door",
+        "Double Door",
+        "Side-by-Side",
+        "French Door"
+      ],
+      "Brand": [
+        "Brand",
+        "Samsung",
+        "LG",
+        "Whirlpool",
+        "Godrej",
+        "Haier",
+        "Voltas",
+        "Panasonic"
+      ],
+      "Reason": [
+        "Why?",
+        "Storage Capacity",
+        "Energy Efficiency",
+        "Budget Friendly",
+        "Design",
+        "Features"
+      ]
+    },
+    "Washing Machine": {
+      "Type": [
+        "Type",
+        "Washing Machine",
+        "Front Load",
+        "Top Load",
+        "Semi Automatic"
+      ],
+      "Brand": [
+        "Brand",
+        "LG",
+        "Samsung",
+        "Whirlpool",
+        "IFB",
+        "Bosch",
+        "Haier",
+        "Godrej"
+      ],
+      "Reason": [
+        "Why?",
+        "Capacity",
+        "Energy Efficiency",
+        "Wash Programs",
+        "Budget Friendly",
+        "Water Efficiency"
+      ]
+    },
+    "Microwave": {
+      "Type": ["Type", "Microwave", "Solo", "Grill", "Convection"],
+      "Brand": [
+        "Brand",
+        "LG",
+        "Samsung",
+        "Whirlpool",
+        "IFB",
+        "Panasonic",
+        "Bosch"
+      ],
+      "Reason": [
+        "Why?",
+        "Capacity",
+        "Cooking Modes",
+        "Power Consumption",
+        "Features",
+        "Price Range"
+      ]
+    },   
+    "Vacuum Cleaner": {
+      "Type": [
+        "Type",
+        "Vacuum Cleaner",
+        "Upright",
+        "Canister",
+        "Stick",
+        "Robot",
+        "Handheld"
+      ],
+      "Brand": [
+        "Brand",
+        "Dyson",
+        "Shark",
+        "Hoover",
+        "Miele",
+        "Bissell",
+        "Eureka"
+      ],
+      "Reason": [
+        "Why?",
+        "Suction Power",
+        "Filtration System",
+        "Ease of Maneuverability",
+        "Versatility",
+        "Price Range"
+      ]
+    }
+  }
+}

@@ -1,0 +1,185 @@
+[
+    [
+        {
+            "full_name": "Dell Inspiron 15 3511 Laptop",
+            "brand": "Dell",
+            "rating": 4.3,
+            "model": "Inspiron 15 3511",
+            "colors": "Silver",
+            "brand_website_link": "https://www.dell.com/en-in/shop/laptops/dell-inspiron-15-3511-laptop/spd/inspiron-15-3511-laptop/d5607011w",
+            "price": 55990,
+            "related_information_1": "11th Gen Intel Core i3-1115G4 Processor",
+            "related_information_2": "4GB DDR4 RAM",
+            "related_information_3": "1TB HDD",
+            "about_company": "Dell Technologies Inc. is an American multinational computer technology company that develops, sells, repairs, and supports computers and related products and services.",
+            "description": "The Dell Inspiron 15 3511 is a powerful and versatile laptop that is perfect for students and professionals alike. It features a 15.6-inch display, 11th Gen Intel Core i3-1115G4 Processor, 4GB DDR4 RAM, 1TB HDD, and a long-lasting battery. The laptop is also equipped with a variety of ports, including USB-C and HDMI.",
+            "key_features": [
+                "15.6-inch HD Display",
+                "11th Gen Intel Core i3-1115G4 Processor",
+                "4GB DDR4 RAM",
+                "1TB HDD",
+                "Long-lasting battery",
+                "Backlit Keyboard"
+            ]
+        },
+        {
+            "full_name": "Dell Inspiron 14 5420 Laptop",
+            "brand": "Dell",
+            "rating": 4.5,
+            "model": "Inspiron 14 5420",
+            "colors": "Platinum Silver",
+            "brand_website_link": "https://www.dell.com/en-in/shop/laptops/dell-inspiron-14-5420-laptop/spd/inspiron-14-5420-laptop/d5605611w",
+            "price": 64990,
+            "related_information_1": "11th Gen Intel Core i5-1135G7 Processor",
+            "related_information_2": "8GB DDR4 RAM",
+            "related_information_3": "512GB SSD",
+            "about_company": "Dell Technologies Inc. is an American multinational computer technology company that develops, sells, repairs, and supports computers and related products and services.",
+            "description": "The Dell Inspiron 14 5420 is a stylish and powerful laptop that is perfect for students and professionals alike. It features a 14-inch FHD display, 11th Gen Intel Core i5-1135G7 Processor, 8GB DDR4 RAM, 512GB SSD, and a long-lasting battery. The laptop is also equipped with a variety of ports, including USB-C and HDMI.",
+            "key_features": [
+                "14-inch FHD Display",
+                "11th Gen Intel Core i5-1135G7 Processor",
+                "8GB DDR4 RAM",
+                "512GB SSD",
+                "Long-lasting battery",
+                "Backlit Keyboard"
+            ]
+        },
+        {
+            "full_name": "Dell Vostro 3405 Laptop",
+            "brand": "Dell",
+            "rating": 4.2,
+            "model": "Vostro 3405",
+            "colors": "Black",
+            "brand_website_link": "https://www.dell.com/en-in/shop/laptops/dell-vostro-3405-laptop/spd/vostro-3405-laptop/d5603736w",
+            "price": 52990,
+            "related_information_1": "11th Gen Intel Core i3-1115G4 Processor",
+            "related_information_2": "8GB DDR4 RAM",
+            "related_information_3": "1TB HDD + 256GB SSD",
+            "about_company": "Dell Technologies Inc. is an American multinational computer technology company that develops, sells, repairs, and supports computers and related products and services.",
+            "description": "The Dell Vostro 3405 is a reliable and affordable laptop that is perfect for students and professionals alike. It features a 14-inch FHD display, 11th Gen Intel Core i3-1115G4 Processor, 8GB DDR4 RAM, 1TB HDD + 256GB SSD, and a long-lasting battery. The laptop is also equipped with a variety of ports, including USB-C and HDMI.",
+            "key_features": [
+                "14-inch FHD Display",
+                "11th Gen Intel Core i3-1115G4 Processor",
+                "8GB DDR4 RAM",
+                "1TB HDD + 256GB SSD",
+                "Long-lasting battery",
+                "Backlit Keyboard"
+            ]
+        },
+        {
+            "full_name": "Dell Inspiron 15 3505 Laptop",
+            "brand": "Dell",
+            "rating": 4.4,
+            "model": "Inspiron 15 3505",
+            "colors": "Silver",
+            "brand_website_link": "https://www.dell.com/en-in/shop/laptops/dell-inspiron-15-3505-laptop/spd/inspiron-15-3505-laptop/d5605134w",
+            "price": 49990,
+            "related_information_1": "AMD Ryzen 3 5300U Processor",
+            "related_information_2": "4GB DDR4 RAM",
+            "related_information_3": "1TB HDD",
+            "about_company": "Dell Technologies Inc. is an American multinational computer technology company that develops, sells, repairs, and supports computers and related products and services.",
+            "description": "The Dell Inspiron 15 3505 is a stylish and affordable laptop that is perfect for students and professionals alike. It features a 15.6-inch FHD display, AMD Ryzen 3 5300U Processor, 4GB DDR4 RAM, 1TB HDD, and a long-lasting battery. The laptop is also equipped with a variety of ports, including USB-C and HDMI.",
+            "key_features": [
+                "15.6-inch FHD Display",
+                "AMD Ryzen 3 5300U Processor",
+                "4GB DDR4 RAM",
+                "1TB HDD",
+                "Long-lasting battery",
+                "Backlit Keyboard"
+            ]
+        },
+        {
+            "full_name": "Dell Inspiron 15 3510 Laptop",
+            "brand": "Dell",
+            "rating": 4.3,
+            "model": "Inspiron 15 3510",
+            "colors": "Silver",
+            "brand_website_link": "https://www.dell.com/en-in/shop/laptops/dell-inspiron-15-3510-laptop/spd/inspiron-15-3510-laptop/d5604262w",
+            "price": 61990,
+            "related_information_1": "11th Gen Intel Core i5-1135G7 Processor",
+            "related_information_2": "8GB DDR4 RAM",
+            "related_information_3": "256GB SSD",
+            "about_company": "Dell Technologies Inc. is an American multinational computer technology company that develops, sells, repairs, and supports computers and related products and services.",
+            "description": "The Dell Inspiron 15 3510 is a stylish and powerful laptop that is perfect for students and professionals alike. It features a 15.6-inch FHD display, 11th Gen Intel Core i5-1135G7 Processor, 8GB DDR4 RAM, 256GB SSD, and a long-lasting battery. The laptop is also equipped with a variety of ports, including USB-C and HDMI.",
+            "key_features": [
+                "15.6-inch FHD Display",
+                "11th Gen Intel Core i5-1135G7 Processor",
+                "8GB DDR4 RAM",
+                "256GB SSD",
+                "Long-lasting battery",
+                "Backlit Keyboard"
+            ]
+        },
+        {
+            "full_name": "Dell Latitude 3420 Laptop",
+            "brand": "Dell",
+            "rating": 4.1,
+            "model": "Latitude 3420",
+            "colors": "Black",
+            "brand_website_link": "https://www.dell.com/en-in/shop/laptops/dell-latitude-3420-laptop/spd/latitude-3420-laptop/d5606231w",
+            "price": 69990,
+            "related_information_1": "11th Gen Intel Core i5-1135G7 Processor",
+            "related_information_2": "8GB DDR4 RAM",
+            "related_information_3": "256GB SSD",
+            "about_company": "Dell Technologies Inc. is an American multinational computer technology company that develops, sells, repairs, and supports computers and related products and services.",
+            "description": "The Dell Latitude 3420 is a durable and reliable laptop that is perfect for professionals on the go. It features a 14-inch FHD display, 11th Gen Intel Core i5-1135G7 Processor, 8GB DDR4 RAM, 256GB SSD, and a long-lasting battery. The laptop is also equipped with a variety of security features, including a fingerprint reader and a TPM 2.0 chip.",
+            "key_features": [
+                "14-inch FHD Display",
+                "11th Gen Intel Core i5-1135G7 Processor",
+                "8GB DDR4 RAM",
+                "256GB SSD",
+                "Long-lasting battery",
+                "Backlit Keyboard",
+                "Fingerprint reader",
+                "TPM 2.0 chip"
+            ]
+        },
+        {
+            "full_name": "Dell XPS 13 9310 Laptop",
+            "brand": "Dell",
+            "rating": 4.7,
+            "model": "XPS 13 9310",
+            "colors": "Silver",
+            "brand_website_link": "https://www.dell.com/en-in/shop/laptops/dell-xps-13-9310-laptop/spd/xps-13-9310-laptop/d5605749w",
+            "price": 99990,
+            "related_information_1": "11th Gen Intel Core i5-1135G7 Processor",
+            "related_information_2": "8GB LPDDR4x RAM",
+            "related_information_3": "512GB SSD",
+            "about_company": "Dell Technologies Inc. is an American multinational computer technology company that develops, sells, repairs, and supports computers and related products and services.",
+            "description": "The Dell XPS 13 9310 is a premium ultrabook that is perfect for professionals and students who need a powerful and portable laptop. It features a 13.4-inch FHD+ display, 11th Gen Intel Core i5-1135G7 Processor, 8GB LPDDR4x RAM, 512GB SSD, and a long-lasting battery. The laptop is also equipped with a variety of ports, including Thunderbolt 4 and USB-C.",
+            "key_features": [
+                "13.4-inch FHD+ Display",
+                "11th Gen Intel Core i5-1135G7 Processor",
+                "8GB LPDDR4x RAM",
+                "512GB SSD",
+                "Long-lasting battery",
+                "Backlit Keyboard",
+                "Thunderbolt 4",
+                "USB-C"
+            ]
+        },
+        {
+            "full_name": "Dell Inspiron 13 5310 2-in-1 Laptop",
+            "brand": "Dell",
+            "rating": 4.6,
+            "model": "Inspiron 13 5310 2-in-1",
+            "colors": "Platinum Silver",
+            "brand_website_link": "https://www.dell.com/en-in/shop/laptops/dell-inspiron-13-5310-2-in-1-laptop/spd/inspiron-13-5310-2-in-1-laptop/d5605078w",
+            "price": 89990,
+            "related_information_1": "11th Gen Intel Core i5-1135G7 Processor",
+            "related_information_2": "8GB LPDDR4x RAM",
+            "related_information_3": "512GB SSD",
+            "about_company": "Dell Technologies Inc. is an American multinational computer technology company that develops, sells, repairs, and supports computers and related products and services.",
+            "description": "The Dell Inspiron 13 5310 2-in-1 is a versatile and powerful laptop that is perfect for students and professionals alike. It features a 13.3-inch FHD touchscreen display, 11th Gen Intel Core i5-1135G7 Processor, 8GB LPDDR4x RAM, 512GB SSD, and a long-lasting battery. The laptop can also be used as a tablet, making it perfect for taking notes or watching movies.",
+            "key_features": [
+                "13.3-inch FHD Touchscreen Display",
+                "11th Gen Intel Core i5-1135G7 Processor",
+                "8GB LPDDR4x RAM",
+                "512GB SSD",
+                "Long-lasting battery",
+                "Backlit Keyboard",
+                "2-in-1 Design"
+            ]
+        }
+    ]
+]
