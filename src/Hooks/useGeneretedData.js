@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { useDispatch } from 'react-redux';
 import { addProductData } from '../ReduxStore/itemSlice';
-import ProductsData from '../Utils/ProductsData.json'
+import { Google_API_KEY } from '../Utils/Constents';
 
 const useGeneretedData = (formValues) => {
     const [Products, setProducts] = useState([]);
@@ -17,7 +17,7 @@ const useGeneretedData = (formValues) => {
             const { GoogleGenerativeAI } = require("@google/generative-ai");
 
             // Access your API key as an environment variable (see "Set up your API key" above)
-            const genAI = new GoogleGenerativeAI(process.env.Google_API_KEY);
+            const genAI = new GoogleGenerativeAI(Google_API_KEY);
 
             async function run() {
 
@@ -57,6 +57,7 @@ const useGeneretedData = (formValues) => {
                     parsedData = jsonObjects;
 
                 } catch (error) {
+                    setLoading(false);
                     console.error("Error parsing JSON data:", error);
                     return;  // Exit the function if parsing fails
                 }

@@ -8,11 +8,9 @@ import washingmachine from './images/Products/washingmachine.webp';
 import Microwave from './images/Products/Microwave.avif';
 import VacuumCleaner from './images/Products/Vacuum Cleaner.png';
 
-// sahil
-export const Google_API_KEY='AIzaSyAExrjz4CktzLoXxgLFjjurN9ft1jYwhH0';
 
-// mdsahil
-// export const Google_API_KEY='AIzaSyCNLEXYL1tENFp-mSyZrQ_HqqT1lVp7PsI';
+
+export const Google_API_KEY='AIzaSyAExrjz4CktzLoXxgLFjjurN9ft1jYwhH0';
 
 export const Products = [
     {

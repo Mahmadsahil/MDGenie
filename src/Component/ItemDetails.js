@@ -3,7 +3,6 @@ import useGetImages from '../Hooks/useGetImages';
 import { useSelector } from 'react-redux';
 import ImageListShimmer from '../Shimmer/ImageListShimmer';
 import ItemTxtDetailsShimmer from '../Shimmer/ItemTxtDetailsShimmer';
-import ReactImageMagnify from 'react-image-magnify';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 import 'react-lazy-load-image-component/src/effects/blur.css';
 
@@ -42,21 +41,8 @@ const ItemDetails = () => {
                             ProductImage.length === 0 || (ProductImage.length !== 0 && ProductImage.searchParameters.q !== full_name) ?
                                 <div className='w-full h-full md:w-96 md:h-80 rounded bg-slate-300 animate-pulse'></div>
                                 :
-                                // <img src={MainImage.length === 0 ? ProductImage?.images[0]?.imageUrl : MainImage} className='h-52 md:h-96' alt='img' />
-                                <ReactImageMagnify {...{
-                                    smallImage: {
-                                        alt: 'Product magnify',
-                                        isFluidWidth: true,
-                                        src: MainImage.length === 0 ? ProductImage?.images[0]?.imageUrl : MainImage,
-                                    },
-                                    largeImage: {
-                                        src: MainImage.length === 0 ? ProductImage?.images[0]?.imageUrl : MainImage,
-                                        width: 1400,
-                                        height: 1400
-                                    }
-                                }} />
-
-                        }
+                                <img src={MainImage.length === 0 ? ProductImage?.images[0]?.imageUrl : MainImage} className='h-52 md:h-96' alt='img' />
+                                                       }
 
                     </div>
                 </div>
