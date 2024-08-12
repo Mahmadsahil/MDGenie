@@ -38,7 +38,7 @@
       ]
     },
     "Car": {
-      "Type": ["Device", "Sedan", "SUV", "Hatchback"],
+      "Type": ["Options", "Sedan", "SUV", "Hatchback"],
       "Brand": [
         "Brand",
         "Maruti Suzuki",
@@ -62,7 +62,7 @@
       ]
     },
     "Bike": {
-      "Type": ["Bike", "Sports Bike", "Scooter", "Electric"],
+      "Type": ["Options","Bike", "Sports Bike", "Scooter", "Electric"],
       "Brand": [
         "Brand",
         "Hero",
